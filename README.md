@@ -5,4 +5,4 @@ Using Places API from Google, was able to obtain to export a spreadsheet contain
 
 From report found Delibab Etelbar Resaurant had the most user ratings (their pizza must be good!)
 
-The highest rating pizzerias had low number of user ratings, so it led to believe the ratings weren't an appropriate measure of how good their pizzas were.
+The highest rating pizzerias had low number of user ratings, so it led to believe the ratings weren't an appropriate measure of how popular the pizzeria is.
